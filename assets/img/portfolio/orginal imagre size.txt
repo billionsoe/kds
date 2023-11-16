@@ -1,0 +1,2 @@
+p image size width 800px height 600px.
+p detail image size width 1288px height 600px.
